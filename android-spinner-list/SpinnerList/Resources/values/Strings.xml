@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">SpinnerList</string>
+  <string-array name="attendence_array">
+    <item>muh</item>
+    <item>bar1</item>
+    <item>bar2</item>
+    <item>bar3</item>
+  </string-array>
+</resources>
